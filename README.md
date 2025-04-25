@@ -1,2 +1,2 @@
 # cpaint
-Simple paint from C
+Simple paint in C using bitui. x11 build!
